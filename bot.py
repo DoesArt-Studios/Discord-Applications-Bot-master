@@ -97,4 +97,4 @@ async def load(ctx, *, msg):
     else:
         await ctx.send('Dev only')
 
-bot.run('NzMwOTk2MzIzMzYwNDQwNDQx.Xwfnhg.eCPAAV-qpOVfnVLgt3SrulOX9lY')
+bot.run('TOKEN')
